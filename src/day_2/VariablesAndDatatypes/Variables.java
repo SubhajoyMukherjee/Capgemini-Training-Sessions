@@ -1,4 +1,4 @@
-package VariablesAndDatatypes;
+package day_2.VariablesAndDatatypes;
 
 public class Variables {
 	public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Variables {
 		boolean bool = true;
 		char ch = '@';
 		
-		String str = "hello";
+		//String str1 = "hello";
 		
 		
 	}
