@@ -9,5 +9,4 @@ public class Post {
 		this.message=message;
 	}
 	
-
 }
